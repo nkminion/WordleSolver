@@ -7,11 +7,13 @@ Made with Python and Selenium.
 Features:
 
 Fully autonomous: Opens a chromium window and solves the puzzle with no manual intervention.
+
 Real-Time: Watch the program solve the puzzle in real time.
 
 Pre-requisites:
 
 Python 3.11
+
 It is recommended to use a virtual environment.
 
 Setup (Linux):
