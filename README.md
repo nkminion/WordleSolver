@@ -14,7 +14,8 @@ Pre-requisites:
 Python 3.11
 It is recommended to use a virtual environment.
 
-Setup:
+Setup (Linux):
+
 Clone the repository
 ```bash
 git clone https://github.com/nkminion/WordleSolver
