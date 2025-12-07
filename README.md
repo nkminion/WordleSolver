@@ -23,6 +23,6 @@ pip install -r requirements.txt
 
 Working:
 
-The script uses selenium for all I/O. It opens a chromium window(You do not have to install chromium)
-It then picks a word from its word list (starts with 'audio' due to higher number of vowels)
+The script uses selenium for all I/O. It opens a chromium window (You do not have to install chromium).
+It then picks a word from its word list (starts with 'audio' due to higher number of vowels).
 The script scrapes the HTML of the page to check if it is was right or wrong and filters its wordlist accordingly.
